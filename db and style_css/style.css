@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: antiquewhite;
+  background: url('back.jpg');
+}
+#Signup{
+  background-color: beige;
+  font-size: 16px;
+  border-radius: 10px;
+}
+.container{
+  background: black;
+  color: white;
+  text-align: center;
+  width: 320px;
+  height: 223px;
+  margin-top: 200px;
+  margin-left: 521px;
+  /* padding: 2pc; */
+  border-radius: 40px;
+  }
+  .form-group{
+    margin-top: 10px;
+  }
+  .input{
+    background-color: bisque;
+  }
+  #Signup:hover{
+    background-color: aqua;
+    /* box-shadow: inset; */
+    
+  }
